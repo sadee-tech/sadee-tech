@@ -13,7 +13,7 @@ In Parallel, I am serving as a Senior Advisor, at the Advanced Air Mobility Inst
 Furthermore, I am a Bootcamper at The Cloud Bootcamp (MultiCloud & DevOps Bootcamp). The MultiCloud Bootcamp prepares Technology Professionals to work with Cloud; Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) & Oracle Cloud Infrastructure (OCI) by providing the practical experience needed through the implementation of hands-on real scenario projects, requested by the largest companies in the world.
 Also, I am currently running an Advanced Critical Infrastructure Security programme at International Cybersecurity and Digital Forensics Academy (ICDFA).
 
-In addition, I am certified in Cisco, AWS, Oracle, ISC2 and Kubernetes.
+In addition, I am certified in Cisco, AWS, Oracle, ISC2, Fortinet, CNCF and Linux Foundation.
 
 As part of the MultiCloud Specialization, I implemented Cloud projects based on real scenarios such as: 
 - Migrating from On-Premises environment to AWS using services like EC2, S3 and RDS.
